@@ -16,7 +16,7 @@ local d = palette.d -- Background colors
 local bf, it, underline, undercurl, strikethrough
 if vim.g.melange_enable_font_variants ~= 0 then
   bold = true
-  italic = true
+  italic = false
   underline = true
   undercurl = true
   strikethrough = true
