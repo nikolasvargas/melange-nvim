@@ -25,10 +25,10 @@
     }
     @media (prefers-color-scheme: dark) {
       :root {
-        --melange-text-fill:   #ECE1D7;
+        --melange-text-fill:   #DBC3A3;
         --melange-text-stroke: none;
         --melange-ring-fill:   #292522;
-        --melange-line-fg: #ECE1D7;
+        --melange-line-fg: #DBC3A3;
         --melange-red:     #D47766;
         --melange-orange:  #E49B5D;
         --melange-yellow:  #EBC06D;

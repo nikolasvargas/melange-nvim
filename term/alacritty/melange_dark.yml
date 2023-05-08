@@ -1,6 +1,6 @@
 colors:
   primary:
-    foreground: '#ECE1D7'
+    foreground: '#DBC3A3'
     background: '#041818'
   normal:
     black:   '#34302C'
@@ -19,4 +19,4 @@ colors:
     blue:    '#A3A9CE'
     magenta: '#CF9BC2'
     cyan:    '#89B3B6'
-    white:   '#ECE1D7'
+    white:   '#DBC3A3'
