@@ -106,7 +106,7 @@ local highlight_groups = {
 
   Comment = { fg = a.com, italic = italic },
   Identifier = { fg = a.fg },
-  Function = { fg = a.fg },
+  Function = { fg = b.yellow },
 
   Constant = { fg = c.magenta },
   String = { fg = b.blue, italic = italic },
@@ -119,7 +119,7 @@ local highlight_groups = {
   -- Conditional = { },
   -- Repeat = { },
   -- Label = { },
-  Operator = { fg = b.red },
+  Operator = { fg = c.yellow },
   -- Keyword = { },
   -- Exception = { },
 
@@ -129,7 +129,7 @@ local highlight_groups = {
   -- Macro = { },
   -- PreCondit = { },
 
-  Type = { fg = c.cyan },
+  Type = { fg = b.green },
   -- StorageClass = { },
   -- Structure = { },
   -- Typedef = { },

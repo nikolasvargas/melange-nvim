@@ -1,15 +1,15 @@
 {
-  "bg":"#041818",
-  "fg":"#DBC3A3",
+  "bg":"#050052",
+  "fg":"#D8D1C6",
   "bright_black":"#867462",
-  "bright_blue":"#A3A9CE",
+  "bright_blue":"#32EAFF",
   "bright_cyan":"#89B3B6",
-  "bright_green":"#85B695",
+  "bright_green":"#2DFF00",
   "bright_magenta":"#CF9BC2",
   "bright_red":"#D47766",
   "bright_white":"#ECE1D7",
-  "bright_yellow":"#EBC06D",
-  "dark_black":"#041818",
+  "bright_yellow":"#FAF051",
+  "dark_black":"#050052",
   "dark_blue":"#273142",
   "dark_cyan":"#253333",
   "dark_green":"#233524",
@@ -24,5 +24,5 @@
   "magenta":"#B380B0",
   "red":"#BD8183",
   "white":"#C1A78E",
-  "yellow":"#E49B5D"
+  "yellow":"#D8D3FC"
 }

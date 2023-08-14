@@ -25,16 +25,16 @@
     }
     @media (prefers-color-scheme: dark) {
       :root {
-        --melange-text-fill:   #DBC3A3;
+        --melange-text-fill:   #D8D1C6;
         --melange-text-stroke: none;
         --melange-ring-fill:   #292522;
-        --melange-line-fg: #DBC3A3;
+        --melange-line-fg: #D8D1C6;
         --melange-red:     #D47766;
-        --melange-orange:  #E49B5D;
-        --melange-yellow:  #EBC06D;
-        --melange-green:   #85B695;
+        --melange-orange:  #D8D3FC;
+        --melange-yellow:  #FAF051;
+        --melange-green:   #2DFF00;
         --melange-cyan:    #89B3B6;
-        --melange-blue:    #A3A9CE;
+        --melange-blue:    #32EAFF;
         --melange-magenta: #CF9BC2;
       }
     }
