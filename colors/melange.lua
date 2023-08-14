@@ -106,7 +106,7 @@ local highlight_groups = {
 
   Comment = { fg = a.com, italic = italic },
   Identifier = { fg = a.fg },
-  Function = { fg = b.yellow },
+  Function = { fg = a.fg },
 
   Constant = { fg = c.magenta },
   String = { fg = b.blue, italic = italic },
