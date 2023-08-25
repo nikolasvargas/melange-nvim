@@ -5,7 +5,7 @@ return {
     float   = "#34302C",
     sel     = "#403A36",
     ui      = "#867462",
-    com     = "#C1A78E",
+    com     = "#24CE00",
     fg      = "#DBC3A3",
   },
   b = {
@@ -13,12 +13,12 @@ return {
     yellow  = "#EBC06D",
     green   = "#85B695",
     cyan    = "#89B3B6",
-    blue    = "#A3A9CE",
+    blue    = "#0FDFAF",
     magenta = "#CF9BC2",
   },
   c = {
     red     = "#BD8183",
-    yellow  = "#E49B5D",
+    yellow  = "#D8D3Fc",
     green   = "#78997A",
     cyan    = "#7B9695",
     blue    = "#7F91B2",

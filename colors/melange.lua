@@ -54,7 +54,7 @@ local highlight_groups = {
   PmenuThumb = 'PmenuSel',
 
   StatusLine = 'NormalFloat',
-  StatusLineNC = { fg = a.com, bg = a.float },
+  StatusLineNC = { fg = a.fg, bg = a.float },
   WildMenu = 'NormalFloat',
 
   TabLine = 'StatusLineNC',
@@ -119,7 +119,7 @@ local highlight_groups = {
   -- Conditional = { },
   -- Repeat = { },
   -- Label = { },
-  Operator = { fg = b.red },
+  Operator = { fg = c.yellow },
   -- Keyword = { },
   -- Exception = { },
 
@@ -129,7 +129,8 @@ local highlight_groups = {
   -- Macro = { },
   -- PreCondit = { },
 
-  Type = { fg = c.cyan },
+  -- Type = { fg = c.cyan },
+  Type = { fg = b.green },
   -- StorageClass = { },
   -- Structure = { },
   -- Typedef = { },
